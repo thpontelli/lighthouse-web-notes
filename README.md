@@ -2,5 +2,6 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Thiago for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Thiago](https://github.com/thpontelli) for the Lighthouse Labs Web Development Bootcamp.
+
 
